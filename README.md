@@ -1,2 +1,2 @@
 # SOCIAL-NETWORK-GRAPH-ANALYZER
-This is out new internship Project
+This is our new internship Project
