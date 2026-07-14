@@ -55,7 +55,7 @@ Start both the backend server (port 3000) and the Vite development server (port 
 npm run dev
 ```
 
-Open your browser and visit: **[http://localhost:5173](http://localhost:5173)**
+Open your browser and visit: **[http://localhost:5173](http://localhost:5173)](https://social-network-graph-analyzer-front.vercel.app/)**
 
 ---
 
