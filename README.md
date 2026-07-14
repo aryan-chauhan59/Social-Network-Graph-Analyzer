@@ -2,6 +2,8 @@
 
 An interactive social network visualization and analysis tool powered by a Python backend (for graph algorithms) and a React frontend.
 
+[![Deploy to Render](https://render.com/images/deploy-to-render.svg)](https://render.com/deploy?repo=https://github.com/aryan-chauhan59/SOCIAL-NETWORK-GRAPH-ANALYZER)
+
 This project is divided into separate backend and frontend codebases, orchestrated via **npm workspaces** from the root directory.
 
 ## Project Structure
